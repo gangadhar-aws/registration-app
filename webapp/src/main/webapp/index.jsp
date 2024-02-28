@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for GANGADHAR CODE TEST HELLO </h1>
+    <h1>HELLO USER THIS IS REGISTRATION FORM  SAMPLE CODE HACKER</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
